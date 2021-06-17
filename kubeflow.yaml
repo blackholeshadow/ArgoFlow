@@ -6,7 +6,7 @@ metadata:
 spec:
   project: default
   source:
-    repoURL: https://github.com/argoflow/argoflow
+    repoURL: git@github.com:blackholeshadow/argoflow.git
     targetRevision: HEAD
     path: .
     kustomize:
